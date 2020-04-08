@@ -5,6 +5,4 @@ class Car < Vehicle
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end
 =======
-  
->>>>>>> 1edcc60dfc437a2747cbc58d4793a74411732103
 end
